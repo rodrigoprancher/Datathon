@@ -1,3 +1,3 @@
-## Datathon
+# Datathon
 
-# Proyecto individual 2
+## Proyecto individual 2
