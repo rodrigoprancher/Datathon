@@ -36,3 +36,14 @@ Todos estos cambios y selecciones de columnas también se ejecutaran con el arch
 ## Modelo
 
 Para el modelo tomamos en cuenta la columna 'lat', 'lon', 'bathrooms' y dividimos los datos de la columna 'property_type' en columnas diferentes. Y por último, como no, la columna 'target' creada anteriormente usando los precios de la columna 'price'.
+
+El modelo de clasificación usado en este proyecto es: Árbol de decisión. 
+
+Árbol de decisión: Está compuesta por nodos, ramas. Esta va recorriendo el árbol de decisión y en cada nodo, el árbol hace una pregunta sobre sus atributos. Según la respuesta, deriva a la respuesta por alguna de sus ramas, donde puede ocurrir en otra pregunta o que termine en una hoja, que esta contiene la etiqueta que le corresponde a esa instancia, finalizando el recorrido en el árbol.
+
+Las columnas en total usadas en este modelo son : 'lat', 'lon', 'bathrooms', 'Apartamento', 'Casa', 'Otro', 'Lote', 'Local comercial', 'Finca', 'Oficina' y 'target'
+
+Finalizado el modelo obtenemos los siguientes resultados:
+
+Accuracy: 0.8995697291824855
+Recall: 0.7676211453744494
