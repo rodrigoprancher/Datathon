@@ -18,4 +18,4 @@ Durante el proceso de limpieza creamos una columna llamada 'target' la cual cont
 
 Luego vemos la correlación entre las columnas: 'lat', 'lon', 'rooms', 'bedrooms', 'bathrooms', 'surface_total', 'sorface_covered' y 'target'.
 
-![descarga](https://user-images.githubusercontent.com/105827215/199972429-c82f7165-a8f6-43be-8a04-aa13de1109b8.png)
+<img width="428" alt="Captura de pantalla 2022-11-04 092817" src="https://user-images.githubusercontent.com/105827215/199972744-6556c126-b30f-4bfb-8aaa-3575069be97f.png">
