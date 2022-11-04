@@ -45,5 +45,5 @@ Las columnas en total usadas en este modelo son : 'lat', 'lon', 'bathrooms', 'Ap
 
 Finalizado el modelo obtenemos los siguientes resultados:
 
-Accuracy: 0.8995697291824855
-Recall: 0.7676211453744494
+- Accuracy: 0.8995697291824855
+- Recall: 0.7676211453744494
