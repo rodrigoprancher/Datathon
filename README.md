@@ -26,3 +26,7 @@ También rellenamos valores nulos y sacamos los outliers que pueden hacer que fa
 En las columnas 'lat' y 'lon' se encontraban dos outliers que daban como coordenada a Chile y Estados Unidos siendo estas removidas y quedando solo las coordenadas de Colombia. 
 
 <img width="728" alt="asd" src="https://user-images.githubusercontent.com/105827215/199974696-1da94790-f421-4f84-817b-b96ff2ff9e88.png">
+
+Luego volvemos a ver la relación entre algunas columnas planificiadas usar para el modelo viendo los datos de la columna 'target' en verde (0) y naranja (1).
+
+<img width="407" alt="asdfasdf" src="https://user-images.githubusercontent.com/105827215/199975657-434b82d5-c798-4080-8620-4668edffbb63.png">
