@@ -30,3 +30,9 @@ En las columnas 'lat' y 'lon' se encontraban dos outliers que daban como coorden
 Luego volvemos a ver la relación entre algunas columnas planificiadas usar para el modelo viendo los datos de la columna 'target' en verde (0) y naranja (1).
 
 <img width="407" alt="asdfasdf" src="https://user-images.githubusercontent.com/105827215/199975657-434b82d5-c798-4080-8620-4668edffbb63.png">
+
+Todos estos cambios y selecciones de columnas también se ejecutaran con el archivo .csv de testeo para que coincidan en el modelo.
+
+## Modelo
+
+Para el modelo tomamos en cuenta la columna 'lat', 'lon', 'bathrooms' y dividimos los datos de la columna 'property_type' en columnas diferentes. Y por último, como no, la columna 'target' creada anteriormente usando los precios de la columna 'price'.
