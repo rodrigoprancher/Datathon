@@ -13,6 +13,7 @@ En este proyecto hacemos una limpieza de datos y un modelo de Machine Learning p
 - - Folium.
 - - Seaborn.
 - - cmath
+- scikit-learn
 
 ## Limpieza
 
